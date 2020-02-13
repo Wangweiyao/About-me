@@ -8,7 +8,7 @@ I am a PhD student in the Computer Science department at the Johns Hopkins Unive
 
 1. **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning**
 Xinlei Pan, _Weiyao Wang_ , Xiaoshuai Zhang, Bo Li, Jinfeng Yi, and Dawn Song.
-_Accepted by the AAMAS, 2019_. ![Link to another page](arxiv.org/abs/1904.11082)
+_Accepted by the AAMAS, 2019_. [Link to another page](arxiv.org/abs/1904.11082)
 
 ### Works in deep generative models 
 

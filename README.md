@@ -8,21 +8,21 @@ I am a PhD student in the Computer Science department at the Johns Hopkins Unive
 
 1. **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning**
 Xinlei Pan, _Weiyao Wang_ , Xiaoshuai Zhang, Bo Li, Jinfeng Yi, and Dawn Song.
-_Accepted by the AAMAS, 2019_. ![Link to another page](https://arxiv.org/abs/1904.11082)
+_Accepted by the AAMAS, 2019_. ![Link to another page](arxiv.org/abs/1904.11082)
 
 ### Works in deep generative models 
 
 1. **JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets**
 Yunchen Pu, Shuyang Dai, Zhe Gan, _Weiyao Wang_, Guoyin Wang, Yizhe Zhang, Ricardo Henao, Lawrence Carin
-_Accepted by ICML, 2018_. ![Link to another page](https://arxiv.org/abs/1806.02978)
+_Accepted by ICML, 2018_. ![Link to another page](arxiv.org/abs/1806.02978)
 
 1. **Adversarial symmetric variational autoencoder**
 Yuchen Pu, _Weiyao Wang_, Ricardo Henao, Liqun Chen, Zhe Gan, Chunyuan Li, Lawrence Carin
-_Accepted by NeuralPS, 2017_. ![Link to another page](http://papers.nips.cc/paper/7020-adversarial-symmetric-variational-autoencoder)
+_Accepted by NeuralPS, 2017_. ![Link to another page](papers.nips.cc/paper/7020-adversarial-symmetric-variational-autoencoder)
 
 1. **Triangle generative adversarial networks**
 Zhe Gan, Liqun Chen, _Weiyao Wang_, Yuchen Pu, Yizhe Zhang, Lawrence Carin
-_Accepted by NeuralPS, 2017_. ![Link to another page](http://papers.nips.cc/paper/7109-triangle-generative-adversarial-networks)
+_Accepted by NeuralPS, 2017_. ![Link to another page](papers.nips.cc/paper/7109-triangle-generative-adversarial-networks)
 
 
 

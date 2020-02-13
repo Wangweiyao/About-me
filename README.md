@@ -22,7 +22,7 @@ _Accepted by NeuralPS, 2017_. [Link](papers.nips.cc/paper/7020-adversarial-symme
 Zhe Gan, Liqun Chen, _Weiyao Wang_, Yuchen Pu, Yizhe Zhang, Lawrence Carin.
 _Accepted by NeuralPS, 2017_. [Link](papers.nips.cc/paper/7109-triangle-generative-adversarial-networks)
 
-![Image](989E7C04-C17D-4AC2-A694-90588AA1A527.jpeg)
+![Image](NewYorkView.jpeg)
 
 
 

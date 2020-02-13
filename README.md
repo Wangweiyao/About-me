@@ -8,7 +8,7 @@ Between Ph.D. and undergrad, I worked at Mckinsey & Company as Business Analyst 
 
 1. **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning**
 Xinlei Pan, _Weiyao Wang_ , Xiaoshuai Zhang, Bo Li, Jinfeng Yi, and Dawn Song.
-_Accepted by the AAMAS, 2019_. [Link](arxiv.org/abs/1904.11082)
+_Accepted by AAMAS, 2019_. [Link](arxiv.org/abs/1904.11082)
 
 ### Works in deep generative models 
 

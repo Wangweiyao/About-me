@@ -1,4 +1,4 @@
-## About me
+## Bio
 
 I am a **Ph.D. student in the Computer Science department at the Johns Hopkins University** in Baltimore, Maryland. I work with Professor Gregory Hager on **reinforcement learning** for robotics control and Professor Mathias Unberath on **computer vision** for medical applications. I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Professor Lawrence Carin in **deep generative models**.  
 
@@ -24,7 +24,6 @@ _Accepted by NeuralPS, 2017_. [Link](papers.nips.cc/paper/7020-adversarial-symme
 Zhe Gan, Liqun Chen, _Weiyao Wang_, Yuchen Pu, Yizhe Zhang, Lawrence Carin.
 _Accepted by NeuralPS, 2017_. [Link](papers.nips.cc/paper/7109-triangle-generative-adversarial-networks)
 
-### Photos
 ![Image](DukeGraduation.jpeg)
 
 

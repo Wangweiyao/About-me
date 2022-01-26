@@ -1,6 +1,6 @@
 ## Bio
 
-I am a 2nd year **Ph.D. student in the Computer Science department at the Johns Hopkins University** in Baltimore, Maryland. I work with Professor Gregory Hager on **reinforcement learning** for robotics control and Professor Mathias Unberath on **computer vision** for medical applications. I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Professor Lawrence Carin in deep generative models.  
+I am a 3rd year **Ph.D. student in the Computer Science department at the Johns Hopkins University** in Baltimore, Maryland. I work with Professor Gregory Hager on **reinforcement learning** for robotics control and Professor Mathias Unberath on **computer vision** for medical applications. I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Professor Lawrence Carin in deep generative models.  
 
 Between grad school and college graduation, I worked at Mckinsey & Company as Business Analyst in Greater China Region, focused on TMT related strategy/management consulting. During undergrad, I also did a software enginnering internship at Facebook and a research internship at UC Berkeley with Professor Dawn Song and Professor Bo Li.
 

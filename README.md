@@ -4,7 +4,11 @@ I am a 3rd year **Ph.D. student in the Computer Science department at the Johns 
 
 Between grad school and college graduation, I worked at Mckinsey & Company as Business Analyst in Greater China Region, focused on TMT related strategy/management consulting. During undergrad, I also did a software enginnering internship at Facebook and a research internship at UC Berkeley with Professor Dawn Song and Professor Bo Li.
 
-### Works in deep reinforcement learning
+### Works in computer vision, reinforcement learning and robotics
+
+1. **Learn Proportional Derivative Controllable Latent Space from Pixels**
+_Weiyao Wang_ , Marin Kobilarov, and Gregory D. Hager.
+_Preprint_. [Link](arxiv.org/pdf/2110.08239)
 
 1. **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning**
 Xinlei Pan, _Weiyao Wang_ , Xiaoshuai Zhang, Bo Li, Jinfeng Yi, and Dawn Song.

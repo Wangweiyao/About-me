@@ -8,7 +8,7 @@ Between grad school and college graduation, I worked at Mckinsey & Company as Bu
 
 1. **VIHE: Transformer-Based 3D Object Manipulation Using Virtual In-Hand View**
 _Weiyao Wang_ , Yutian Lei, Shiyu Jin, Gregory D. Hager and Liangjun Zhang.
-_In submission_. [Project Site](https://vihe-3d.github.io) [Code](https://github.com/Wangweiyao/vihe-3d) 
+_In submission_. [Project Site](https://vihe-3d.github.io)
 
 1. **RegCLR: A Self-Supervised Framework for Tabular Representation Learning in the Wild**
 _Weiyao Wang_, Byung-Hak Kim and Varun Ganapathi.

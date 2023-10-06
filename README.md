@@ -1,8 +1,8 @@
 ## Bio
 
-I am a 4th year **Ph.D. student in the Computer Science department at the Johns Hopkins University** in Baltimore, Maryland. I work with Prof. Gregory Hager on vision-based robotics control and Prof. Mathias Unberath on medical imaging. I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Prof. Lawrence Carin in deep generative models.  
+I am a 4th year **Ph.D. student in the Computer Science department at the Johns Hopkins University** in Baltimore, Maryland. I work with Prof. Gregory Hager on vision-based robotics manipulation. My research topics include: 1) Visual representation for robot manipulation. 2) Domain adaptation (e.g., sim-to-real) for visual policies. 3) Language-conditioned robot manipulation. During Ph.D., I also worked with BAIDU Robotics and Autonomous Driving Lab (RAL) and AKASA Inc. as summer research intern.
 
-Between grad school and college graduation, I worked at Mckinsey & Company as Business Analyst in Greater China Region, focused on TMT related strategy consulting. During undergrad, I also did a software enginnering internship at Facebook and a research internship at UC Berkeley with Prof. Dawn Song and Prof. Bo Li.
+I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Prof. Lawrence Carin in deep generative models. During undergrad, I also did a software enginnering internship at Facebook and a research internship at UC Berkeley with Prof. Dawn Song and Prof. Bo Li.
 
 ### Works in computer vision, reinforcement learning and robotics
 

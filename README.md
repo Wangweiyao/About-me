@@ -10,6 +10,14 @@ I completed my undergraduate program at the Duke University in Durham, North Car
 _Weiyao Wang_ , Yutian Lei, Shiyu Jin, Gregory D. Hager and Liangjun Zhang.
 _In submission_. [[Project Site](https://vihe-3d.github.io)]
 
+1. **Adapting Visual Policies via Predicted Rewards**
+_Weiyao Wang_ , Xinyuan Zhang and Gregory D. Hager.
+_L4DC 2024_.
+
+1. **PromptAdapt: Domain Adaptation of Visual Policies with a Single Demonstration**
+_Weiyao Wang_ and Gregory D. Hager.
+_ICRA 2024_. 
+
 1. **RegCLR: A Self-Supervised Framework for Tabular Representation Learning in the Wild**
 _Weiyao Wang_, Byung-Hak Kim and Varun Ganapathi.
 _Oral presentation in Table Representation Learning Workshop, NeurIPS 2023_. [[Paper](arxiv.org/pdf/2211.01165)] [[Talk](https://slideslive.com/38996604/regclr-a-selfsupervised-framework-for-tabular-representation-learning-in-the-wild)]

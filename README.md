@@ -8,7 +8,7 @@ I completed my undergraduate program at the Duke University in Durham, North Car
 
 1. **VIHE: Transformer-Based 3D Object Manipulation Using Virtual In-Hand View**
 _Weiyao Wang_ , Yutian Lei, Shiyu Jin, Gregory D. Hager and Liangjun Zhang.
-_In submission_to_IROS 2024_. [[Project Site](https://vihe-3d.github.io)]
+_In submission to IROS 2024_. [[Project Site](https://vihe-3d.github.io)]
 
 1. **Adapting Visual Policies via Predicted Rewards**
 _Weiyao Wang_ , Xinyuan Zhang and Gregory D. Hager.

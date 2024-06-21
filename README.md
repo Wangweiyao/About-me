@@ -4,11 +4,11 @@ I am a 4th year **Ph.D. student in the Computer Science department at the Johns 
 
 I completed my undergraduate program at the Duke University in Durham, North Carolina with double major in Computer Science & Statistics and worked with Prof. Lawrence Carin in deep generative models. During undergrad, I also did a software enginnering internship at Facebook and a research internship at UC Berkeley with Prof. Dawn Song and Prof. Bo Li.
 
-### Works in computer vision, reinforcement learning and robotics
+### Papers in computer vision, reinforcement learning and robotics
 
 1. **VIHE: Transformer-Based 3D Object Manipulation Using Virtual In-Hand View**
 _Weiyao Wang_ , Yutian Lei, Shiyu Jin, Gregory D. Hager and Liangjun Zhang.
-_In submission_. [[Project Site](https://vihe-3d.github.io)]
+_In submission_to_IROS 2024_. [[Project Site](https://vihe-3d.github.io)]
 
 1. **Adapting Visual Policies via Predicted Rewards**
 _Weiyao Wang_ , Xinyuan Zhang and Gregory D. Hager.
@@ -34,7 +34,7 @@ _CASE 2022_. [[Paper](arxiv.org/pdf/2110.08239)]
 Xinlei Pan*, _Weiyao Wang_* , Xiaoshuai Zhang*, Bo Li, Jinfeng Yi, and Dawn Song.
 _Appearing in AAMAS, 2019_. [[Paper](arxiv.org/abs/1904.11082)]
 
-### Works in deep generative models 
+### Papers in deep generative models 
 
 1. **JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets**
 Yunchen Pu, Shuyang Dai, Zhe Gan, _Weiyao Wang_, Guoyin Wang, Yizhe Zhang, Ricardo Henao, Lawrence Carin.
